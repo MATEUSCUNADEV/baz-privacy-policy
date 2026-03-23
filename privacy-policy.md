@@ -1,0 +1,72 @@
+ Política de Privacidade – BAZ
+1. Introdução
+
+A aplicação BAZ foi desenvolvida para facilitar a reserva e compra de bilhetes de transporte de forma simples, rápida e segura.
+Esta Política de Privacidade explica como os dados dos usuários são coletados, usados, armazenados e protegidos durante o uso da aplicação.
+
+2. Dados coletados
+
+Para garantir o funcionamento adequado da aplicação, poderão ser coletados os seguintes dados pessoais:
+
+Nome completo
+Número de telefone
+Endereço de e-mail
+Dados de identificação (BI, Passaporte ou outro documento válido)
+Número do documento de identificação
+Dados de viagem (origem, destino, horários)
+Dados do bilhete (número, assento, operador)
+Dados de pagamento (quando aplicável)
+Informações de sessão e autenticação
+3. Finalidade do uso dos dados
+
+Os dados coletados são utilizados para:
+
+Processar reservas e compras de bilhetes
+identificar o usuário dentro da aplicação
+Melhorar a experiência de utilização
+Garantir a segurança das transações
+Prestar suporte ao usuário quando necessário
+4. Partilha de dados
+
+A BAZ não compartilha dados pessoais com terceiros, exceto quando necessário para:
+
+Processamento de pagamentos
+Cumprimento de obrigações legais
+Prestação do serviço solicitado pelo usuário
+5. Segurança da informação
+
+A BAZ adota medidas técnicas e específicas para proteger os dados dos usuários contra:
+
+Acessos não autorizados
+Perda de informação
+e indevida
+Divulgação não autorizada
+
+Sempre que aplicável, são utilizados mecanismos de armazenamento seguro.
+
+6. Armazenamento de dados
+
+Os dados podem ser armazenados:
+
+Localmente no dispositivo do usuário
+Em servidores seguros
+
+O tempo de retenção dos dados dependerá da necessidade de prestação do serviço ou cumprimento de requisitos legais.
+
+7. Direitos do seguidor
+
+O usuário tem o direito de:
+
+Aceder aos seus dados pessoais a qualquer momento
+Solicitar atualização ou correção de dados incorretos
+Solicitar a eliminação dos seus dados, quando aplicável
+Limitar ou por-se ao tratamento dos seus dados
+Terminar sessão a qualquer momento na aplicação
+8. Alterações à política
+
+Esta Política de Privacidade poderá ser atualizada sempre que houver alterações relevantes na aplicação, funcionalidades ou requisitos legais.
+Recomenda-se uma consulta periódica deste documento.
+
+9. Contato
+
+Para dúvidas, sugestões ou questões relacionadas com privacidade, o usuário poderá utilizar os canais de suporte disponíveis na aplicação BAZ.
